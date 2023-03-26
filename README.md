@@ -26,7 +26,7 @@ const Ninja = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love communicating with machine.</b> so if you want to say <b>hi, Be a machine then 😎!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love communicating with machine.</b> so if you want to say <b>hi, Then be a machine.. 😎!</b> :)</em>
 
 ---
 
