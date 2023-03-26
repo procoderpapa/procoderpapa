@@ -14,9 +14,9 @@
 ```javascript
 const Ninja = {
   pronouns: "he" | "him",
-  code: [Javascript, Flutter, HTML, CSS, Java, Python, C, Dart, ],
-  tools: [React, Node],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript, Flutter, HTML, CSS, Java, Python, C, Dart, Jquery, ajax, php, mysql, mongodb],
+  tools: [Flutter, Kotlin, Html, css],
+  architecture: ["App developer", "Web developer"],
   Credits: {
                         I_would_like_to_thank: "ME",
                         For_believing_in_me: "ME",
