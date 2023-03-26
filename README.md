@@ -18,10 +18,10 @@ const Ninja = {
   tools: [Flutter, Kotlin, Html, css],
   architecture: ["App developer", "Web developer"],
   Credits: {
-                        I_would_like_to_thank: "ME",
-                        For_believing_in_me: "ME",
-                        mentor: "ME"
-                      },
+             I_would_like_to_thank: "ME",
+             For_believing_in_me: "ME",
+             mentor: "ME"
+           },
  challenge: "I am doing what i can do"
 }
 ```
